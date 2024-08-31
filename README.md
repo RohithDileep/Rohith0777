@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm pursuing artificial intelligence and data science at St. Joseph's College of Engineering and Technology, Palai.<br>🤖 I'm passionate about programming, problem solving etc<br>📚 I’m currently learning Data Structures using C, JAVA<br>📫 How to reach me rohithdileep2005@gmail.com<br>👀 : I’m interested in codes and stuffs
+💻 I'm pursuing artificial intelligence and data science at St. Joseph's College of Engineering and Technology, Palai.<br>🤖 I'm passionate about programming, problem solving etc<br>📚 I’m currently learning Data Structures using C, JAVA<br>📫 Reach me through rohithdileep2005@gmail.com<br>👀 : I’m interested in codes,data analytics and stuffs
 
 
 ## 🌐 Socials:
